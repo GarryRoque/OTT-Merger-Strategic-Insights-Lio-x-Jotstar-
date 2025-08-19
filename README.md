@@ -25,6 +25,10 @@ The analysis was carried out using **Python, SQL, and Power BI**. Final results 
 
 ---
 
+## Database
+- **Schema:** ![Database Schema](https://github.com/GarryRoque/Procurement-Dashboard/blob/main/Procurement%20Dashboard%20Snapshot.PNG)
+
+
 ## 📊 Dashboard & Presentation
 - **Dashboard:** *(Add screenshot or link to PBIX/Tableau Public)*  
 - **Presentation:** *(Add link to Google Drive / YouTube)*  
