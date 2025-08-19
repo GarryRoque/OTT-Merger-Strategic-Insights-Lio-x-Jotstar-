@@ -26,7 +26,7 @@ The analysis was carried out using **Python, SQL, and Power BI**. Final results 
 ---
 
 ## Database
-- **Schema:** ![Database Schema](https://github.com/GarryRoque/Procurement-Dashboard/blob/main/Procurement%20Dashboard%20Snapshot.PNG)
+- **Schema:** ![Database Schema](https://github.com/GarryRoque/OTT-Merger-Strategic-Insights-Lio-x-Jotstar-/blob/main/Pictures/Database%20Screenshot.png)
 
 
 ## 📊 Dashboard & Presentation
