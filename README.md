@@ -8,25 +8,6 @@ The analysis was carried out using **Python, SQL, and Power BI**. Final results 
 
 ---
 
-## 🗂 Project Structure
-OTT-Merger-Analysis/
-│── README.md                # Clear overview of the project
-│── data/                    # (Optional) Sample or dummy data (remove confidential data)
-│── notebooks/               # Jupyter notebooks / SQL scripts
-│── reports/                 
-│   ├── problem_statement.pdf
-│   ├── Metrics_Analysis.pdf
-│   ├── primary_secondary_questions.pdf
-│── dashboard/               # Power BI/Tableau files or screenshots
-│── presentation/            # Final PPT or video link
-│── requirements.txt         # If using Python (list libraries: pandas, matplotlib, etc.)
-│── src/                     # Any custom Python/SQL scripts
-
-
-
-
----
-
 ## 📈 Key Analyses
 - **Content Library Analysis** → Language & type comparison across platforms.  
 - **Subscriber Trends** → Growth analysis (Jan–Nov 2024).  
